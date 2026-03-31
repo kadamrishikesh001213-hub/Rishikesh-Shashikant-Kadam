@@ -1,5 +1,4 @@
 # Hi there, I'm Rishikesh Kadam! 👋
-
 ### 🎓 About Me
 * **Branch:** B.Tech Computer Science and Engineering 
 * **Institution:** VIT Bhopal University 
